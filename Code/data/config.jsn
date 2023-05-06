@@ -1,0 +1,13 @@
+{
+  "ssid1": "Your SSID 1",
+  "pass1": "Your Password 1",
+  "ssid2": "Your SSID 2",
+  "pass2": "Your Password 2",
+  "host": "examplewebsite.com",
+  "is_ip": false,
+  "uri": "/makemyrequest/",
+  "wc_p": 10,
+  "gr_p": 10,
+  "s_vcc": false,
+  "vcc_p": "batt"
+}
